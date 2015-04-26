@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "firstapp",
+=======
+  "name": "sass",
+>>>>>>> bf75e84466a40663d90f694f817076d77ec38e05
   "private": "true",
   "devDependencies": {
     "ionic": "driftyco/ionic-bower#1.0.0-rc.4"

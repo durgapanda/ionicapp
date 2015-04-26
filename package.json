@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "firstapp",
   "version": "1.0.0",
   "description": "firstapp: An Ionic project",
+=======
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "sass: An Ionic project",
+>>>>>>> bf75e84466a40663d90f694f817076d77ec38e05
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^1.3.3",
@@ -19,7 +25,11 @@
     "org.apache.cordova.console",
     "com.ionic.keyboard"
   ],
+<<<<<<< HEAD
   "cordovaPlatforms": [
     "android"
   ]
+=======
+  "cordovaPlatforms": []
+>>>>>>> bf75e84466a40663d90f694f817076d77ec38e05
 }

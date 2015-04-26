@@ -1,4 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "firstapp",
   "app_id": ""
+=======
+  "name": "sass",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+>>>>>>> bf75e84466a40663d90f694f817076d77ec38e05
 }
